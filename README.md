@@ -27,5 +27,5 @@ AI Integration: Google Gemini API
 
 Authentication: Flask sessions, hashed passwords (Werkzeug)
 
-Deployment: Flask server, Nginx/Apache (optional for prod)
+Deployment: Flask server, Nginx/Apache 
 
